@@ -55,6 +55,8 @@ I enjoy building efficient, scalable, and elegant solutions for the web — from
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/samurks">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samurks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</a>
+<div align="center">
+  <a href="https://github.com/samurks">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samurks&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
